@@ -25,4 +25,5 @@ Only write, malloc, and free are used.
 Error handling: Displays "Error" for invalid inputs or if no solution is found.
 
 Disclaimer: This repository is for educational purposes only. If you are a student at 42 Network, please respect the peer-learning rules and avoid copying code.
+
 <img width="279" height="603" alt="image" src="https://github.com/user-attachments/assets/e9367daf-2a22-4ac4-968f-fae282890dc2" />
